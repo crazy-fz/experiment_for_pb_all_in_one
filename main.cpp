@@ -1,10 +1,10 @@
 #include "a.h"
 #include "b.h"
 // #include "bits/stdc++.h"
-using namespace std;
+// using namespace std;
 int main(){
     // cout<<"hello";
     a();
-    b();
+    mylib_b::b();
     return 0;
 }
